@@ -1,6 +1,9 @@
 import os
 import logging
 import logging.config
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Get logging configurations
 logging.getLogger().setLevel(logging.ERROR)

@@ -1,3 +1,4 @@
 pyrogram==2.0.57
 https://github.com/Ns-AnoNymouS/pyromod/archive/refs/heads/master.zip
 TgCrypto
+python-dotenv=0.21.0
